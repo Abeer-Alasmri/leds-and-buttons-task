@@ -108,19 +108,20 @@ void loop()
     digitalWrite(8, LOW);
   }
 }
-
-
-## 🖼️ Project Images
-
- Description          | Preview                                                            |
-|---------------------|--------------------------------------------------------------------|
-| 🔧 Full Circuit View | ![Overview](https://raw.githubusercontent.com/Abeer-Alasmri/leds-and-buttons-task/main/circuit-overview.png) |
-| 💡 LED 1 ON          | ![LED 1 ON](https://raw.githubusercontent.com/Abeer-Alasmri/leds-and-buttons-task/main/led1-on.png)          |
-| 💡 LED 2 ON          | ![LED 2 ON](https://raw.githubusercontent.com/Abeer-Alasmri/leds-and-buttons-task/main/led2-on.png)          |
-| 💡 LED 3 ON          | ![LED 3 ON](https://raw.githubusercontent.com/Abeer-Alasmri/leds-and-buttons-task/main/led3-on.png)|
+```
 ---
 
-## 🌐 Live Simulation
+## 📸 Project Images
 
-🎯 Try the circuit on Tinkercad here:  
-🔗 [Open Tinkercad Simulation](https://www.tinkercad.com/things/4hswZiTPB7X)
+| Description         | Preview |
+|---------------------|---------|
+| 🔧 Full Circuit View | ![Overview](circuit-overview.png) |
+| 💡 LED 1 ON          | ![LED 1 ON](led1-on.png) |
+| 💡 LED 2 ON          | ![LED 2 ON](led2-on.png) |
+| 💡 LED 3 ON          | ![LED 3 ON](led3-on.png) |
+
+---
+
+## 🔗 Simulation Link
+
+[🔌 Open Tinkercad Simulation](https://www.tinkercad.com/things/4hswZiTPB7X)
